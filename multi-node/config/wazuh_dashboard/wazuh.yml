@@ -3,5 +3,5 @@ hosts:
       url: "https://wazuh.master"
       port: 55000
       username: wazuh-wui
-      password: "MyS3cr37P450r.*-"
+      password: "contrast_change_me"
       run_as: false
